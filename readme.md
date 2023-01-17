@@ -11,7 +11,7 @@ Install the dependencies and start the dev server.
 ```sh
 cd html-sass-tailwind
 npm i
-npm run dev
+npm run build
 npm run sass:watch
 npm run tailwind:watch
 ```
